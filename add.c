@@ -5,4 +5,6 @@ void main()
 	printf("sum is: %d",a+b);
 }
 
+printfsdfghujkofghjklvfgbhjk
+fcghjklvgbhjk
 
